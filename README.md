@@ -19,8 +19,5 @@ Unplanned equipment failures are costly. This dashboard helps identify [overdue 
 - [e.g., Equipment downtime]
 - [e.g., Overdue maintenance count]
 
-## Files
-- `[file name].pbix`: Power BI file
-
 ## Author
 Subhashini M | [LinkedIn](https://www.linkedin.com/in/subhashini-murugan) | [GitHub](https://github.com/Suuuubha)
